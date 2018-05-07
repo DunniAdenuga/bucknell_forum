@@ -1,6 +1,7 @@
 {
   "name": "bucknell_forum",
   "version": "0.1.0",
+  "homepage": "http://dunniadenuga.github.io/bucknell_forum/release/v1.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.1",
